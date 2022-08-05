@@ -1,5 +1,7 @@
 # Personalizar Extension Pack
 
+![logo](https://github.com/lucian-af/personalizar-extension-pack/blob/main/logo.png)
+
 Conjunto de plugins para o VS Code que eu utilizo.
 
 ## Gostaria de instalar somente algumas extensões?
