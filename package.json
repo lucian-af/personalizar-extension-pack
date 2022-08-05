@@ -1,0 +1,62 @@
+{
+  "publisher": "lucian-af",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "rainbow",
+    "errorlens",
+    "surround",
+    "autoimport",
+    "style",
+    "html",
+    "css"
+  ],
+  "repository": {
+    "url": "https://github.com/lucian-af/personalizar-extension-pack"
+  },
+  "homepage": "https://github.com/lucian-af/personalizar-extension-pack",
+  "bugs": {
+    "url": "https://github.com/lucian-af/personalizar-extension-pack/issues"
+  },
+  "name": "personalizar-extension-pack",
+  "displayName": "Personalizar Extension Pack",
+  "description": "Uma coleção de extensões para criar um visual diferenciado com novas funcionalidades.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "dzhavat.bracket-pair-toggler",
+    "svipas.code-autocomplete",
+    "dracula-theme.theme-dracula",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "EditorConfig.EditorConfig",
+    "leonzalion.vscode-ejs",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "anteprimorac.html-end-tag-labels",
+    "bradgashler.htmltagwrap",
+    "wix.vscode-import-cost",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "Zignd.html-css-class-completion",
+    "GregorBiswanger.json2ts",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "natqe.reload",
+    "yatki.vscode-surround",
+    "SimonSiefke.svg-preview"
+  ]
+}
